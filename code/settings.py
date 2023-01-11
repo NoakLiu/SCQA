@@ -1,0 +1,16 @@
+sim_num = 5
+rnn_size=100
+upper_bound=0.1
+iter_ub=5
+embedding_dim=50
+max_len=150
+sigma=0.45
+learning_rate=0.4
+reg_factor=0.5
+shr_rate=4
+reg_factor_for_res=0.1
+length = 256
+num_epochs = 20
+train_period = 50
+save_period = 100
+tot_save_time = 20
